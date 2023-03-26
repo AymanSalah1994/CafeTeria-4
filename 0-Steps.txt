@@ -1,7 +1,6 @@
 1-Creating the Database and a Proper Table  With Proper Fields ;  [ OK ]
 
 2-Creating The Form and Make the Insertion in the DB tabels ; [ OK ]
-// TODO Making a Good Design For it 
 
     - For the Images Folder , YOU MUST create the Folder , it will NOT create itself 
     - AND make permissions 777 For this Images Folder 
