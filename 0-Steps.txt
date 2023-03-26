@@ -1,0 +1,17 @@
+1-Creating the Database and a Proper Table  With Proper Fields ;  [ OK ]
+
+2-Creating The Form and Make the Insertion in the DB tabels ; [ OK ]
+// TODO Making a Good Design For it 
+
+    - For the Images Folder , YOU MUST create the Folder , it will NOT create itself 
+    - AND make permissions 777 For this Images Folder 
+
+3-Creating the Log in With "SELECT" From the Table  ; [ OK ]
+
+4- Making the Welcome and Redirection and session Stuff ; [ OK ]
+
+5-Making the Update Form  ; [ OK ]
+
+6- Making the Delete Functions  ; [ OK ]
+    - Delete Record and Delete Image ; 
+
